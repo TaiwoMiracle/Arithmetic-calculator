@@ -1,0 +1,13 @@
+//Javascript program for a script calculator
+//take the user output
+
+const number 1=parseFloat(prompt("Enter first number":))
+const number 2=parseFloat(prompt ("Enter second number"))
+
+let result:
+if(user="+"(result=number 1+number 2)
+else if(user"-") (result = number 1-number 2)
+else if(user"*") (result= number 1*number 2)
+else (user"/") (result= number 1/number 2)
+
+alert(The result is:" +result);
